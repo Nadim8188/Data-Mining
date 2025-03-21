@@ -1,0 +1,23 @@
+survey_id,han_student,programming_language,statistics_proficiency,expected_grade,length,topics to address?
+1,yes,python,3,8.0,161,introduction to maths and stats
+2,yes,python,4,9.0,176,"regression, inferential statistics"
+3,yes,python,3,7.0,160,"probability, regression, linear algebra"
+4,yes,python,1,10.0,187,probability
+5,yes,python,3,8.5,176,hypotheses testing
+6,no,python,3,7.0,168,
+7,no,python,3,8.0,163,"functions, variations, probabilities, correlations"
+8,no,python,2,8.0,163,probability
+9,yes,python,2,7.0,178,probability
+10,no,python,2,3.0,181,math
+11,yes,python,3,8.0,192,"euler's number, p-value"
+12,yes,python,3,7.0,186,"probability, z-score"
+13,yes,python,3,6.0,189,"calculating probability, algebra, how to apply this to coding"
+14,yes,python,3,7.5,180,algebra
+15,yes,python,3,7.0,186,algebra
+16,yes,python,3,7.0,190,"mathematical analysis, specifically the part with integrals"
+17,yes,python,2,7.0,180,
+18,yes,python,3,9.0,163,bayes theorem
+19,yes,python,3,,185,abstract algebra
+20,yes,python,2,7.5,168,
+21,no,python,1,6.0,163,correlation coefficient and p-value
+22,yes,python,2,8.0,190,functions
